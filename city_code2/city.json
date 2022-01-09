@@ -1,11 +1,2 @@
 {
-  "id": "YHMmVzzG0wWU1fvU",
-  "status": "finished",
-  "timestamp": "2022-01-08T18:34:30.833Z",
-  "paths": {
-    "/gh/Aaron-lv/updateTeam@master/shareCodes/city.json": {
-      "throttled": true,
-      "throttlingReset": 3388
-    }
-  }
 }
